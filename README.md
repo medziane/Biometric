@@ -1,3 +1,7 @@
+This is a fork of https://github.com/smstuebe/xamarin-fingerprint.
+
+So all the credit goes to https://github.com/smstuebe.
+
 # <img src="doc/xamarin_fingerprint.png" width="71" height="71"/> Biometric / Fingerprint plugin for Xamarin
 
 Xamarin and MvvMCross plugin for accessing the fingerprint, Face ID or other biometric sensors.
